@@ -33,6 +33,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | **[Vert](https://vert.sh/)** | Fast, web-based file converter. Converts files locally using WebAssembly. | Free | Yes | No |
 | **[Blip](https://blip.net/)** | High-speed file sharing. Direct P2P transfer (Aspera/WeTransfer alternative). | Free (Personal) | No | Required |
 | **[Spliit](https://spliit.app/)** | Free and open-source expense sharing app (Splitwise alternative). Split bills and track group expenses. | Free | Yes | No |
+| **[TinyTools](https://tinytools-smoky.vercel.app/)** | Collection of free single-purpose web utilities — domain name generator, OG image generator, favicon generator, color palette, SEO meta tags, AI cost calculator, AI content disclosure (EU AI Act), AI robots.txt, and an AI background remover (runs locally in the browser). | Free | Yes | No |
 
 ## Writing and Notes
 
@@ -47,6 +48,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | :--- | :--- | :---: | :---: | :---: |
 | **[Penpot](https://penpot.app/)** | Web-based design and prototyping tool (Figma alternative). Uses SVG as its native format. | Free | Yes | Required |
 | **[React Bits](https://reactbits.dev/)** | A collection of animated, interactive React components for modern UIs. | Free | Yes | No |
+| **[TinyTools Color Palette](https://tinytools-smoky.vercel.app/color-palette-generator)** | Browser-based color palette generator for design & branding. Part of the TinyTools suite. | Free | Yes | No |
 
 ## Photography and Image Editing
 
@@ -58,6 +60,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | **[RapidRaw](https://www.getrapidraw.com/)** | Lightweight, fast RAW image processor designed for speed. | Free | Yes | No |
 | **[Affinity Studio](https://www.affinity.studio/)** | Professional photo editing and graphic design suite (Photoshop/Illustrator alternative). | Free | No | Required |
 | **[Photopea](https://www.photopea.com/)** | Advanced browser-based image editor. Supports PSD, XCF, Sketch, XD, and CDR. | Free (Ads) | No | Optional |
+| **[TinyTools Background Remover](https://tinytools-smoky.vercel.app/ai-background-remover)** | AI background removal that runs entirely locally in your browser — images never leave your device. No upload, no account, no ads. | Free | Yes | No |
 
 ## Communication
 
