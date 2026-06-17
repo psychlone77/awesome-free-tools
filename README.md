@@ -74,3 +74,5 @@ Distributed under the MIT License.
 ## 🤝 Contributing
 
 Contributions are welcome! Submit a pull request or open an issue to suggest new tools or improvements.
+
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG image converter that runs entirely in your browser — no uploads to a server, no signup, fast and private.
