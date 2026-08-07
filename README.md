@@ -74,3 +74,8 @@ Distributed under the MIT License.
 ## 🤝 Contributing
 
 Contributions are welcome! Submit a pull request or open an issue to suggest new tools or improvements.
+
+## Web utilities
+
+- **[Vaytric Link Health](https://vaytric.com/link-health/)** — Free multi-URL broken link checker (HTTP status + titles).
+
