@@ -33,6 +33,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | **[Vert](https://vert.sh/)** | Fast, web-based file converter. Converts files locally using WebAssembly. | Free | Yes | No |
 | **[Blip](https://blip.net/)** | High-speed file sharing. Direct P2P transfer (Aspera/WeTransfer alternative). | Free (Personal) | No | Required |
 | **[Spliit](https://spliit.app/)** | Free and open-source expense sharing app (Splitwise alternative). Split bills and track group expenses. | Free | Yes | No |
+| **[Tabox](https://www.tabox.co/)** | Browser extension that saves tabs and tab groups into collections and restores whole sessions in one click (Workona alternative). | Free | Yes | No |
 
 ## Writing and Notes
 
