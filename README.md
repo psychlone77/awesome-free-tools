@@ -33,6 +33,11 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | **[Vert](https://vert.sh/)** | Fast, web-based file converter. Converts files locally using WebAssembly. | Free | Yes | No |
 | **[Blip](https://blip.net/)** | High-speed file sharing. Direct P2P transfer (Aspera/WeTransfer alternative). | Free (Personal) | No | Required |
 | **[Spliit](https://spliit.app/)** | Free and open-source expense sharing app (Splitwise alternative). Split bills and track group expenses. | Free | Yes | No |
+| **[WattsCalc](https://wattscalc.com)** | Free wattage and electricity cost calculator for appliances. | Free | No | No |
+| **[Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com)** | Free calculator for lawn mowing cost estimates by area and extras. | Free | No | No |
+| **[Embroidery Pricing Calculator](https://embroiderypricingcalculator.com)** | Free embroidery job pricing from stitches, fabric, and labor. | Free | No | No |
+| **[SkyCOTL Tools](https://skycotl.tools)** | Free guides and calculators for Sky: Children of the Light. | Free | No | No |
+| **[Pressure Washer Fix](https://pressurewasherfix.com)** | Free troubleshooting guides for common pressure washer problems. | Free | No | No |
 
 ## Writing and Notes
 
@@ -47,6 +52,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | :--- | :--- | :---: | :---: | :---: |
 | **[Penpot](https://penpot.app/)** | Web-based design and prototyping tool (Figma alternative). Uses SVG as its native format. | Free | Yes | Required |
 | **[React Bits](https://reactbits.dev/)** | A collection of animated, interactive React components for modern UIs. | Free | Yes | No |
+| **[Codex Theme Builder](https://codextheme.tools)** | Free browser theme builder for OpenAI Codex with live preview and CSS token export. | Free | No | No |
 
 ## Photography and Image Editing
 
@@ -58,6 +64,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | **[RapidRaw](https://www.getrapidraw.com/)** | Lightweight, fast RAW image processor designed for speed. | Free | Yes | No |
 | **[Affinity Studio](https://www.affinity.studio/)** | Professional photo editing and graphic design suite (Photoshop/Illustrator alternative). | Free | No | Required |
 | **[Photopea](https://www.photopea.com/)** | Advanced browser-based image editor. Supports PSD, XCF, Sketch, XD, and CDR. | Free (Ads) | No | Optional |
+| **[Image to Crochet Pattern](https://imagetocrochetpattern.com)** | Free tool that converts images into crochet patterns. | Free | No | No |
 
 ## Communication
 
