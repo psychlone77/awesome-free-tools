@@ -58,6 +58,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | **[RapidRaw](https://www.getrapidraw.com/)** | Lightweight, fast RAW image processor designed for speed. | Free | Yes | No |
 | **[Affinity Studio](https://www.affinity.studio/)** | Professional photo editing and graphic design suite (Photoshop/Illustrator alternative). | Free | No | Required |
 | **[Photopea](https://www.photopea.com/)** | Advanced browser-based image editor. Supports PSD, XCF, Sketch, XD, and CDR. | Free (Ads) | No | Optional |
+| **[Background Remover](https://tomaserben.com/free-tools/image-background-remover)** | Free browser tool to remove image backgrounds; processing runs locally with no signup. | Free | No | No |
 
 ## Communication
 
