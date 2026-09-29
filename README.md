@@ -31,6 +31,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | Tool | Description | Pricing | Open Source | Account? |
 | :--- | :--- | :---: | :---: | :---: |
 | **[Vert](https://vert.sh/)** | Fast, web-based file converter. Converts files locally using WebAssembly. | Free | Yes | No |
+| **[FileOnTap](https://fileontap.com/)** | Browser-local image/PDF File Converter (HEIC/WebP/PNG/JPG + image↔PDF); no upload, no account. | Free | No | No |
 | **[Blip](https://blip.net/)** | High-speed file sharing. Direct P2P transfer (Aspera/WeTransfer alternative). | Free (Personal) | No | Required |
 | **[Spliit](https://spliit.app/)** | Free and open-source expense sharing app (Splitwise alternative). Split bills and track group expenses. | Free | Yes | No |
 
