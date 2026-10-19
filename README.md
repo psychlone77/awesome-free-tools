@@ -40,6 +40,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | :--- | :--- | :---: | :---: | :---: |
 | **[Obsidian](https://obsidian.md/)** | Powerful knowledge base that works on top of a local folder of plain text Markdown files. | Free (Personal) | No | No |
 | **[Mark Text](https://marktext.me/)** | Simple and elegant markdown editor focused on speed and usability. | Free | Yes | No |
+| **[Glim](https://github.com/NeoPanic/Glim)** | macOS file viewer with Markdown and diagram previews plus basic UTF-8 text editing. | Free | Yes | No |
 
 ## Design and UI
 
