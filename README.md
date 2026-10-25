@@ -58,6 +58,8 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | **[RapidRaw](https://www.getrapidraw.com/)** | Lightweight, fast RAW image processor designed for speed. | Free | Yes | No |
 | **[Affinity Studio](https://www.affinity.studio/)** | Professional photo editing and graphic design suite (Photoshop/Illustrator alternative). | Free | No | Required |
 | **[Photopea](https://www.photopea.com/)** | Advanced browser-based image editor. Supports PSD, XCF, Sketch, XD, and CDR. | Free (Ads) | No | Optional |
+| **[TeslaWraps](https://teslawraps.design/)** | Free browser Tesla Paint Shop wrap editor with model templates, 3D preview and PNG export. Core editing needs no account. | Free / Freemium | No | Optional |
+| **[PromptImage](https://promptimage.cloud/)** | Free AI image & video studio with a prompt library; signup credits, no card required. | Free / Freemium | No | Optional |
 
 ## Communication
 
