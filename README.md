@@ -55,6 +55,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | Tool | Description | Pricing | Open Source | Account? |
 | :--- | :--- | :---: | :---: | :---: |
 | **[Darktable](https://www.darktable.org/)** | Virtual lighttable and darkroom for photographers. Powerful RAW developer. | Free | Yes | No |
+| **[ImgFlow](https://imgflow.taoliapp.com/en/)** | Free in-browser image compressor/converter (HEIC, WebP, AVIF, target-size). Files stay on device via WASM. | Free | No | No |
 | **[RapidRaw](https://www.getrapidraw.com/)** | Lightweight, fast RAW image processor designed for speed. | Free | Yes | No |
 | **[Affinity Studio](https://www.affinity.studio/)** | Professional photo editing and graphic design suite (Photoshop/Illustrator alternative). | Free | No | Required |
 | **[Photopea](https://www.photopea.com/)** | Advanced browser-based image editor. Supports PSD, XCF, Sketch, XD, and CDR. | Free (Ads) | No | Optional |
