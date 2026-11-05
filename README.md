@@ -47,6 +47,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | :--- | :--- | :---: | :---: | :---: |
 | **[Penpot](https://penpot.app/)** | Web-based design and prototyping tool (Figma alternative). Uses SVG as its native format. | Free | Yes | Required |
 | **[React Bits](https://reactbits.dev/)** | A collection of animated, interactive React components for modern UIs. | Free | Yes | No |
+| **[My Nine Games](https://myninegames.com/)** | Free browser maker for a personal 3×3 games collage with PNG export and share links. | Free | No | No |
 
 ## Photography and Image Editing
 
